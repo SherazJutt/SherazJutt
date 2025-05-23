@@ -9,11 +9,6 @@
 ```
  Whatsapp +923170657214
 ```
-<!---
-fahad-441002/fahad-441002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 
 ## 📈 GitHub Stats
