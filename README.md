@@ -4,8 +4,8 @@
 - 📫 How to reach me ...
 
 ```
- sherazarshad419@gmail.com
+ Email: sherazarshad419@gmail.com
 ```
 ```
- Whatsapp +923170657214
+ Whatsapp: +923170657214
 ```
