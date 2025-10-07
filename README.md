@@ -4,6 +4,15 @@
 
 ---
 
+### 💡 About Me
+I’m a professional **Full Stack Web Developer** with over 5 years of experience building performant, scalable, and production-grade web applications.  
+
+I specialize in **modern JavaScript frameworks (Vue, Nuxt, React, Next)** and robust backend systems with **Node.js** and **Laravel**.  
+
+My focus is on **clean architecture, API-first design, and containerized deployments** using tools like Docker, Coolify, and Dockploy.
+
+---
+
 ### 🧠 Core Expertise
 - Full Stack Web Application Development (Frontend + Backend)
 - REST API Design & Integration
@@ -34,6 +43,7 @@
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 
 **DevOps & Platforms**
@@ -53,7 +63,8 @@
 ---
 
 ### 🌱 Currently Exploring
-- **SvelteKit** and **Next.js App Router** for advanced SSR and hybrid rendering patterns
+- **SvelteKit**,   
+- Advanced PostgreSQL & query optimization  
 
 ---
 
