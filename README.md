@@ -24,6 +24,7 @@
 ![PrimeVue](https://img.shields.io/badge/-PrimeVue-00A8A8?logo=primevue&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=shadcnui&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff)
 
 **Backend & APIs**
@@ -60,7 +61,7 @@
 - API-first, modular, and scalable architectures  
 - Clean, maintainable, and production-ready code  
 - Containerized deployments with CI/CD pipelines  
-- Focus on performance, stability, and developer experience  
+- Strong focus on performance, stability, and developer experience  
 
 ---
 
