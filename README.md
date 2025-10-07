@@ -1,31 +1,31 @@
-## 👋 Hi, I’m Sheraz Arshad
+## Hi, I’m Sheraz Arshad
 
 **Full Stack Web Developer** · Freelancer on [Upwork](https://www.upwork.com/freelancers/~01ebeb0df745084fac)
 
 ---
 
-### 💡 About Me
+### About Me
 I’m a professional **Full Stack Web Developer** with over 5 years of experience building performant, scalable, and production-grade web applications.  
 
-I specialize in **modern JavaScript frameworks (Vue, Nuxt, React, Next)** and robust backend systems with **Node.js** and **Laravel**.  
+I specialize in **modern JavaScript frameworks (Vue, Nuxt, React, Next)** and robust backend systems using **Node.js** and **Laravel**.  
 
-My focus is on **clean architecture, API-first design, and containerized deployments** using tools like Docker, Coolify, and Dockploy.
-
----
-
-### 🧠 Core Expertise
-- Full Stack Web Application Development (Frontend + Backend)
-- REST API Design & Integration
-- Backend-as-a-Service (PocketBase, Appwrite, Firebase)
-- WordPress Development & Custom Integrations
-- Containerized Deployments (Docker, Coolify, Dockploy)
-- Refactoring, Optimization, and Legacy Code Modernization
+My primary focus is on **clean architecture**, **API-first development**, and **containerized deployments** using **Docker**, **Coolify**, and **Dockploy**.
 
 ---
 
-### 🧰 Technical Toolbox
+### Core Expertise
+- Full Stack Web Application Development (Frontend + Backend)  
+- REST API Design & Integration  
+- Backend-as-a-Service (PocketBase, Appwrite, Firebase)  
+- WordPress Development & Custom Integrations  
+- Containerized Deployments (Docker, Coolify, Dockploy)  
+- Refactoring, Optimization, and Legacy Code Modernization  
 
-**Frontend**
+---
+
+### Technical Toolbox
+
+**Frontend**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)
@@ -36,17 +36,17 @@ My focus is on **clean architecture, API-first design, and containerized deploym
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=shadcnui&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff)
 
-**Backend & APIs**
+**Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
 
-**Databases**
+**Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 
-**DevOps & Platforms**
+**DevOps & Platforms**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![Dockploy](https://img.shields.io/badge/-Dockploy-15202B)
 ![Coolify](https://img.shields.io/badge/-Coolify-1B2430)
@@ -57,18 +57,18 @@ My focus is on **clean architecture, API-first design, and containerized deploym
 ![WSL](https://img.shields.io/badge/-WSL-2B2F3A)
 ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=fff)
 
-**Other**
+**Other Tools**  
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E0E0E)
 
 ---
 
-### 🌱 Currently Exploring
-- **SvelteKit**,   
-- Advanced PostgreSQL & query optimization  
+### Currently Exploring
+- **SvelteKit**  
+- Advanced **PostgreSQL** and query optimization  
 
 ---
 
-### ⚙️ Development Philosophy
+### Development Philosophy
 - API-first, modular, and scalable architectures  
 - Clean, maintainable, and production-ready code  
 - Containerized deployments with CI/CD pipelines  
@@ -76,17 +76,17 @@ My focus is on **clean architecture, API-first design, and containerized deploym
 
 ---
 
-### 📬 Contact
+### Contact
 [![Email](https://img.shields.io/badge/Email-sherazarshad419%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherazarshad419@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923170657214)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923170657214-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923170657214)
 
-📧 **Email:** `sherazarshad419@gmail.com`  
-💬 **WhatsApp:** `+92 317 0657214`
+**Email:** sherazarshad419@gmail.com  
+**WhatsApp:** +923170657214  
 
 ---
 
-### 💼 Freelance Availability
-Open to **contract-based** or **long-term remote opportunities** involving:
+### Freelance Availability
+Open to **contract-based** or **long-term remote opportunities** involving:  
 - SaaS Applications  
 - Admin Dashboards  
 - API-Driven Platforms  
@@ -94,4 +94,4 @@ Open to **contract-based** or **long-term remote opportunities** involving:
 
 ---
 
-⭐ _“Delivering clean architecture, reliable code, and production-grade web applications.”_
+⭐ *Delivering clean architecture, reliable code, and production-grade web applications.*
