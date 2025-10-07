@@ -1,17 +1,20 @@
-## 👋 Hi, I’m Sheraz Jutt
+## 👋 Hi, I’m Sheraz Arshad
 
-**Full-Stack Web Developer** · Freelancer (Upwork)  
----
-
-### 👀 Core Expertise
-- Full Stack Web Development  
-- REST API Design & Server Management  
-- Backend-as-a-Service (PocketBase, Appwrite, Firebase)  
-- WordPress development & CMS integrations
+**Full Stack Web Developer** · Freelancer on [Upwork](https://www.upwork.com/freelancers/~01examplelink)
 
 ---
 
-### 🧰 Toolbox
+### 🧠 Core Expertise
+- Full Stack Web Application Development (Frontend + Backend)
+- REST API Design & Integration
+- Backend-as-a-Service (PocketBase, Appwrite, Firebase)
+- WordPress Development & Custom Integrations
+- Containerized Deployments (Docker, Coolify, Dockploy)
+- Refactoring, Optimization, and Legacy Code Modernization
+
+---
+
+### 🧰 Technical Toolbox
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -53,24 +56,35 @@
 
 ---
 
-### 🌱 Currently Learning
-- SvelteKit
+### 🌱 Currently Exploring
+- **SvelteKit** and **Next.js App Router** for modern, server-side rendering patterns
+
+---
+
+### ⚡ Development Principles
+- Clean, maintainable, and scalable architecture  
+- API-first development with reusable UI components  
+- Containerized and automated deployments  
+- Strong focus on code quality and performance  
 
 ---
 
 ### 📬 Contact
-
 [![Email](https://img.shields.io/badge/Email-sherazarshad419%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherazarshad419@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923170657214)
 
-- Email: `sherazarshad419@gmail.com`
-- WhatsApp: `+92 317 0657214`
+📧 **Email:** `sherazarshad419@gmail.com`  
+💬 **WhatsApp:** `+92 317 0657214`
 
 ---
 
-### ⚡ Quick Notes
-- I work with Docker daily — containerization, multi-stage builds, Compose, and deployment via Dockploy / Coolify.  
-- Prefer `pnpm` for monorepos and fast installs.  
-- Available for freelance contracts (Upwork).
+### 💼 Freelance Availability
+Currently open to **contract-based or long-term remote projects** focused on:
+- SaaS Applications  
+- Internal Dashboards  
+- Admin Panels  
+- API-Driven Platforms  
 
 ---
+
+⭐ _“Delivering clean architecture, reliable code, and production-ready applications.”_  
