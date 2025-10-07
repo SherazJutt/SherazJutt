@@ -17,10 +17,6 @@
 ### 🧰 Technical Toolbox
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)
@@ -29,7 +25,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff)
 
 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
@@ -57,15 +52,15 @@
 ---
 
 ### 🌱 Currently Exploring
-- **SvelteKit** and **Next.js App Router** for modern, server-side rendering patterns
+- **SvelteKit** and **Next.js App Router** for advanced SSR and hybrid rendering patterns
 
 ---
 
-### ⚡ Development Principles
-- Clean, maintainable, and scalable architecture  
-- API-first development with reusable UI components  
-- Containerized and automated deployments  
-- Strong focus on code quality and performance  
+### ⚙️ Development Philosophy
+- API-first, modular, and scalable architectures  
+- Clean, maintainable, and production-ready code  
+- Containerized deployments with CI/CD pipelines  
+- Focus on performance, stability, and developer experience  
 
 ---
 
@@ -79,12 +74,12 @@
 ---
 
 ### 💼 Freelance Availability
-Currently open to **contract-based or long-term remote projects** focused on:
+Open to **contract-based** or **long-term remote opportunities** involving:
 - SaaS Applications  
-- Internal Dashboards  
-- Admin Panels  
+- Admin Dashboards  
 - API-Driven Platforms  
+- Internal Tools & Custom CMS Solutions  
 
 ---
 
-⭐ _“Delivering clean architecture, reliable code, and production-ready applications.”_  
+⭐ _“Delivering clean architecture, reliable code, and production-grade web applications.”_
