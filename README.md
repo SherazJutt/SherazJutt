@@ -59,6 +59,8 @@ My primary focus is on **clean architecture**, **API-first development**, and **
 
 **Other Tools**  
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E0E0E)
+![Godot Engine](https://img.shields.io/badge/-Godot_Engine-478CBF?logo=godot-engine&logoColor=fff)
+
 
 ---
 
