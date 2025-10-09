@@ -51,7 +51,7 @@ My primary focus is on **clean architecture**, **API-first development**, and **
 ![Dockploy](https://img.shields.io/badge/-Dockploy-15202B)
 ![Coolify](https://img.shields.io/badge/-Coolify-1B2430)
 ![PocketBase](https://img.shields.io/badge/-PocketBase-000000)
-![Supabase](https://img.shields.io/badge/-Supabase-000000)
+![Supabase](https://img.shields.io/badge/-Supabase-006239)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-FF3E3E)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220)
