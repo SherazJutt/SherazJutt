@@ -1,7 +1,6 @@
 ## Hi, I’m Sheraz Arshad
 
-**Full Stack Web Developer** · Freelancer on [Upwork](https://www.upwork.com/freelancers/~01ebeb0df745084fac)
-
+**Full Stack Web Developer**
 ---
 
 ### About Me
