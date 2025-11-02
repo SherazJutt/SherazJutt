@@ -1,7 +1,4 @@
-## Hi, I’m Sheraz Arshad
-
-**Full Stack Web Developer**
----
+## Hi, I’m Sheraz Arshad a Full Stack Web Developer
 
 ### About Me
 I’m a professional **Full Stack Web Developer** with over 5 years of experience building performant, scalable, and production-grade web applications.  
