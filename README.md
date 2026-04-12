@@ -31,6 +31,7 @@ My primary focus is on **clean architecture**, **API-first development**, and **
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?logo=shadcnui&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff)
+![Motion](https://img.shields.io/badge/Motion-Animation-000000?logo=framer&logoColor=white)
 
 **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
