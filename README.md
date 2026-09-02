@@ -1,6 +1,5 @@
 ## Hi, I’m `Sheraz Arshad` — Full Stack Web Developer
 
-### About Me
 I’m a professional **Full Stack Web Developer** with over 5 years of experience building performant, scalable, and production-grade web applications.  
 
 I specialize in Vue ecosystem and robust backend systems using **Node.js** and **Nitro**.  
