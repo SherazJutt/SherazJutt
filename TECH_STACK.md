@@ -63,6 +63,7 @@ My day-to-day flow is issue-driven and review-gated:
 - **Pull request** - the branch is pushed and opened as a PR that describes the change and links the issue
 - **Review** - the PR is reviewed before it merges, and feedback is addressed on the same branch
 - **Merge** - reviewed work is merged into the main line, then shipped as a new version tag
+- **GitHub Actions** - CI workflows that install, lint, typecheck, and build on every pull request, plus publish workflows for releases
 
 Conventional, focused commit messages throughout.
 
@@ -80,6 +81,7 @@ Technologies I have shipped real projects with across other client work and pers
 - **Nuxt 3** - earlier Nuxt projects (music app, travel site, booking-style apps)
 - **Nuxt Content / Nuxt Studio** - content-driven sites and editors
 - **VueUse** - composables across most Vue projects
+- **Vue Flow** - node-based flow, diagram, and graph UIs ([vueflow.dev](https://vueflow.dev/))
 
 ### UI Frameworks & Styling
 
@@ -139,3 +141,84 @@ I work AI-first: agentic coding CLIs, in-editor assistants, provider APIs, and s
 
 - Running open-weight models locally, including small quantized models, for offline work and data privacy
 - Serving local models behind OpenAI-compatible endpoints
+
+---
+
+## 4. UI Design System & Published Work
+
+### Veloce Vue - Vue 3 UI Component Library
+
+I designed and built **Veloce Vue**, my own Vue 3 UI component library and design system. It ships accessible, composable components with configurable theming, and it is what I use to keep interfaces consistent across projects.
+
+- **Stack** - Vue 3, Vite, TypeScript, Tailwind CSS, Storybook
+- **Components** - Accordion, Button, Checkbox, Drawer, Input, Modal, Popover, RangeSlider, Select, Separator, Toggle, Tooltip, and more
+- **Theming** - simple theming via configuration, with design tokens
+- **Published on npm** - [`veloce-vue`](https://www.npmjs.com/package/veloce-vue) (MIT licensed, 36 releases)
+- **Live demo** - https://veloce-vue.netlify.app/
+- **Documentation** - https://docs-veloce-vue.netlify.app/
+- **Source** - https://github.com/SherazJutt/veloce-vue
+
+### Storybook
+
+- Component-driven development: every component is built, reviewed, and documented in isolation with stories, controls, and docs pages
+- Used heavily as the documentation and review surface for the Veloce Vue design system
+
+---
+
+## 5. Selected Work
+
+Projects I have designed and shipped, with live links and screenshots.
+
+### Veloce Vue UI Library
+
+Vue 3 + Vite + TypeScript + Tailwind component library, documented in Storybook and published to npm.
+
+- Live demo: https://veloce-vue.netlify.app/
+- Docs: https://docs-veloce-vue.netlify.app/
+- Source: https://github.com/SherazJutt/veloce-vue
+
+![Veloce Vue Storybook - documentation home](screenshots/veloce-vue/storybook-home.webp)
+
+![Veloce Vue Storybook - design tokens](screenshots/veloce-vue/storybook-colors.webp)
+
+![Veloce Vue Storybook - Accordion component](screenshots/veloce-vue/storybook-accordion.webp)
+
+![Veloce Vue Storybook - Button variants](screenshots/veloce-vue/storybook-buttons.webp)
+
+### Engraving Builder (Volumenzeit)
+
+Interactive product customizer for Volumenzeit watch straps: upload images, add text, pre-made designs, patterns, and layers, then drag, resize, and rotate elements against a live preview before ordering.
+
+- Stack: Vue 3 + Vite, PrimeVue, Tailwind CSS, Pinia, Firebase
+
+![Engraving builder - strap front](screenshots/engraving-builder/strap-front.png)
+
+![Engraving builder - watch backside](screenshots/engraving-builder/watch-backside.png)
+
+![Engraving builder - strap back](screenshots/engraving-builder/strap-back.png)
+
+![Engraving builder - image editor controls](screenshots/engraving-builder/image-editor.png)
+
+### GFPS Corporate Platform
+
+Operations platform for the legal and insurance short-pay space: shops, attorneys, customers, and insurance companies, with status-driven short-pay workflows, demand letters, dashboards, data tables, and multi-step forms.
+
+![GFPS dashboard](screenshots/gfps/dashboard.png)
+
+![GFPS short-pay list](screenshots/gfps/short-pays.png)
+
+![GFPS add shop](screenshots/gfps/add-shop.png)
+
+![GFPS submit short pay](screenshots/gfps/submit-short-pay.png)
+
+### Volumenzeit
+
+Site built with Nuxt 3 and Nuxt UI.
+
+- Live: https://volumenzeit-nuxt.vercel.app/
+
+### Afterrecordings
+
+Application built with Nuxt 3 and Nuxt UI.
+
+- Live: https://afterrecordings.vercel.app/
