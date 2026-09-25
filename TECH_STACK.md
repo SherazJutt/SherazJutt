@@ -103,3 +103,39 @@ Technologies I have shipped real projects with across other client work and pers
 - **GDScript / Godot Engine** - 2D game development (roguelite prototype, FPS prototype)
 - **AutoHotkey** - desktop automation and scripting tools
 - **JavaScript** - scripting and tooling beyond TypeScript
+
+---
+
+## 3. AI Tooling & Models
+
+I work AI-first: agentic coding CLIs, in-editor assistants, provider APIs, and self-hosted open-weight models are part of my daily workflow.
+
+### AI Coding Assistants & Agents
+
+- **Command Code CLI** - agentic terminal coding agent, my current daily driver
+- **Claude Code (Claude CLI)** - Anthropic's agentic CLI for repo-wide, multi-file changes
+- **OpenAI Codex CLI** - terminal-based coding agent
+- **Cursor** - AI-first editor, using Composer for multi-file agentic edits
+- **GitHub Copilot** - in-editor code completions and Copilot Chat
+- **Agent setup per repo** - project `AGENTS.md` guides, MCP servers, and tool/permission configuration
+
+### Model APIs & Integration Standards
+
+- **OpenAI-compatible APIs** - I integrate through the standard OpenAI-compatible surface (`/v1/chat/completions`-style endpoints, streaming, tool calling), so any compatible provider or SDK drops in behind the same interface
+- **Anthropic Claude API** - Messages API endpoints with tool use and streaming
+- **Streaming (SSE)** - token-by-token streaming into chat interfaces
+- **Tool / function calling** - structured JSON output, tool schemas, and multi-step agent loops
+- **Provider-agnostic wiring** - swapping between hosted APIs and local endpoints without changing the app layer
+
+### Models I Use
+
+- **Claude (Anthropic)** - my main model for coding and reasoning
+- **Cursor Composer** - in-editor agentic edits
+- **DeepSeek** - heavy use of the open-weight DeepSeek family
+- **Qwen** - heavy use of the open-weight Qwen family, including Qwen 3 and the v4 line
+- **Other open-weight models** - used broadly across projects
+
+### Local & Self-Hosted Models
+
+- Running open-weight models locally, including small quantized models, for offline work and data privacy
+- Serving local models behind OpenAI-compatible endpoints
