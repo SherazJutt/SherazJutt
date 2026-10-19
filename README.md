@@ -5,7 +5,7 @@
 I engineer scalable, production-ready web applications with **6+ years of experience**. I own the entire lifecycle from responsive frontends and secure APIs to containerized deployments.
 
 #### Core Stack
-* **Frontend:** Vue.js, Nuxt, JavaScript, TypeScript, Tailwind CSS
+* **Frontend:** Vue.js, Nuxt, TypeScript, Tailwind CSS
 * **Backend & Data:** Node.js, Nitro, PostgreSQL, Drizzle ORM, REST APIs
 * **Infrastructure:** Docker, CI/CD, Cloud / BaaS
 
